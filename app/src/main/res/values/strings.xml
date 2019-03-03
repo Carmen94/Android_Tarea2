@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="categoryTech">Technology</string>
+    <string name="categoryHome">Home</string>
+    <string name="categoryElectronics">Electronics</string>
+
+
+    <string name="techString">Hello Tech new fragment</string>
+    <string name="homeString">Hello Home new fragment</string>
+    <string name="elecString">Hello Elec new fragment</string>
+
+    <string name="bbStore">BestBuy</string>
+
+    <string name="macbookTitle">MacBook Pro 17</string>
+    <string name="macbookLocation">Zapopan, Jalisco</string>
+    <string name="macbookPhone">33 12345678</string>
+    <string name="macbookDescription">Llevate esta Mac con un 30% de descuento para que puedas programar para XCode y Android sin tener que batallar tanto como en tu Windows</string>
+
+    <string name="allienwareTitle">Allienware Nueva</string>
+    <string name="allienwareLocation">Zapopan, Jalisco</string>
+    <string name="allienwarePhone">33 1548700</string>
+    <string name="allienwareDescription">Llevate esta Computadora Gamer para ejecución de juegos de alta gama.</string>
+
+    <string name="fridgeTitle">Refrigerador Mabe</string>
+    <string name="fridgeLocation">Zapopan, Jalisco</string>
+    <string name="fridgePhone">33 1548700</string>
+    <string name="fridgeDescription">Refrigerador de 18 pies.</string>
+
+    <string name="microTitle">Microondas Beko</string>
+    <string name="microLocation">Guadalajara, Jalisco</string>
+    <string name="microPhone">33 000000</string>
+    <string name="microDescription">Nuevo microondas.</string>
+</resources>
